@@ -9,7 +9,7 @@ This repository contains various Kaggle competition notebooks and experiments, o
 - `gemma/`  
   Notebooks and resources related to the Gemma AI project or model.
 - `jupyter/`  
-  General-purpose Jupyter notebooks for data exploration, prototyping, or utility scripts.
+  A folder containing a Dockerfile for running Jupyter in Docker.
 - `others/`  
   Experiments not directly tied to a specific competition.
 
