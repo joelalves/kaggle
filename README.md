@@ -7,7 +7,7 @@ This repository contains various Kaggle competition notebooks and experiments, o
 - `competitions/`  
   Kaggle competition notebooks, each focusing on a specific dataset or challenge.
 - `gemma/`  
-  Notebooks and resources related to the Gemma project or model.
+  Notebooks and resources related to the Gemma AI project or model.
 - `jupyter/`  
   General-purpose Jupyter notebooks for data exploration, prototyping, or utility scripts.
 - `others/`  
@@ -43,7 +43,7 @@ This repository contains various Kaggle competition notebooks and experiments, o
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/joelalves/your-repo.git
     cd your-repo
     ```
 2. Open the notebooks in Jupyter or Kaggle.
