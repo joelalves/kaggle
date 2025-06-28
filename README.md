@@ -34,6 +34,8 @@ This repository contains various Kaggle competition notebooks and experiments, o
     House price prediction intervals.
   - `notebook-regression-with-an-insurance-dataset.ipynb`  
     Regression analysis on insurance data.
+  - `notebook-automatic-identification-internal-waves.ipynb`  
+    Automatic Identification of Internal Waves.
 
 - **others/**
   - `predict-podcast-listening-time.ipynb`  
@@ -55,4 +57,4 @@ This repository is for educational and research purposes.
 
 ---
 
-Feel free to update this README with more details about each project or add instructions for running specific notebooks.
+Feel free to update this README with more details about each project or add instructions for
