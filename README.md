@@ -36,6 +36,8 @@ This repository contains various Kaggle competition notebooks and experiments, o
     Regression analysis on insurance data.
   - `notebook-automatic-identification-internal-waves.ipynb`  
     Automatic Identification of Internal Waves.
+  - `notebook-street-food-image-classification.ipynb`  
+    Street Food Image Classification.
 
 - **others/**
   - `predict-podcast-listening-time.ipynb`  
